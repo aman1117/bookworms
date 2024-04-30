@@ -7,7 +7,7 @@ import { Button } from "./ui/button"
 export const Navbar = () => {
     return (
         <div>
-            <nav className="flex justify-between items-center p-2 bg-stone-950 text-white rounded-md m-2">
+            <nav className="flex justify-between items-center p-2 bg-stone-950 text-white ">
                     <Logo/>
                     <Search />
                     <div className="flex gap-4 px-2 items-center">
