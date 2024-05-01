@@ -1,6 +1,6 @@
 ## Todo
-
-[] Sidebar for favorites and online groups
-[] main cavas for showing all joined groups and showing recently created/trending
-[] Auth
-[] Websockets
+- [ ] Create group button with tooltip
+- [ ] Sidebar for favorites and online groups
+- [ ] Main canvas for showing all joined groups and showing recently created/trending
+- [ ] Auth
+- [ ] Websockets
